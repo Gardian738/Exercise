@@ -6,6 +6,7 @@
     min-height: 100%;
     width: 100%;
     overflow: hidden; 
+    background-color: black;
 
 }
 .container {
@@ -50,5 +51,51 @@
     font-size: 18px;
 }
 
+
+
+
+.header__body {
+
+}
+.header__body-inner {
+    display: flex;
+    max-width: 1055px;
+    gap: 100px;
+    margin: 80px 0;
+    gap: 150px;
+}
+.body__text {
+    width: 450px;
+    height: 243px;
+    display: inline-block;
+}
+.awesome {
+    font-size: 36px;
+    font-weight: 900;
+    color: #f9faf8;
+
+}
+.pdiv {
+    line-height: 30px;
+}
+p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.btn {
+    margin:55px 0 0 0;
+    width: 130px;
+    height: 40px;
+    border-radius: 10px;
+}
+.body__image {
+    width: 590px;
+    height: 220px;
+    background-color: rgba(214, 215, 219, 0.089);
+    
+}
+.par {
+    padding: 100px 0 0 130px;
+}
 
 
